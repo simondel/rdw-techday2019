@@ -2,8 +2,8 @@
 
 <div class="flex-emoji">
     <span class="emoji-120">😃</span>
-    <span class="fragment" data-fragment-index="1">🡲</span><span class="emoji-120 fragment" data-fragment-index="1">🤢</span></span>
-    <span class="fragment" data-fragment-index="2">🡲</span><span class="emoji-120 fragment" data-fragment-index="2">✔️❌</span></span>
+    <span class="fragment" data-fragment-index="1">🡲</span><span class="emoji-120 fragment" data-fragment-index="1">🤢</span>
+    <span class="fragment" data-fragment-index="2">🡲</span><span class="emoji-120 fragment" data-fragment-index="2">✔️❌</span>
     <span class="fragment" data-fragment-index="3">🡲</span><span class="emoji-120 fragment" data-fragment-index="3">📊</span>
 </div>
 

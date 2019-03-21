@@ -9,7 +9,4 @@
         <li><a href="https://twitter.com/stryker_mutator">@stryker_mutator</a></li>
       </ul>
     </div>
-    <div class="col">
-      <img class="img-responsive-200" src="/img/figurine.png">
-    </div>
 </div>
